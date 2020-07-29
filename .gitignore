@@ -1,0 +1,5 @@
+wllpprs/.env
+wllpprs_app/migrations
+db.sqlite3
+__pycache__/
+.DS_Store
