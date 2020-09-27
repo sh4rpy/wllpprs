@@ -9,7 +9,7 @@
 Склонируйте репозиторий:
 
 ```bash
-https://github.com/sh4rpy/wllpprs_v1.git
+https://github.com/sh4rpy/wllpprs.git
 ```
 
 Создайте файл .env в одной директории с файлом settings.py. Создайте в нем переменные окружения  SECRET_KEY и CLIENT_ID. Первой присвойте ключ, скопированный с [сайта генерация ключей](https://djecrety.ir), а второй присвойте access_key, который можно получить при регистрации на [unsplash](https://unsplash.com) как разработчик. Выглядеть файл должен так:
