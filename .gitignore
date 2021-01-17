@@ -1,6 +1,5 @@
-wllpprs/.env
-wllpprs_app/migrations
-db.sqlite3
+.env
+
 __pycache__/
 .DS_Store
 venv
