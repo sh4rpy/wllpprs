@@ -9,7 +9,7 @@
 Склонируйте репозиторий:
 
 ```bash
-https://github.com/sh4rpy/wllpprs.git
+git clone https://github.com/sh4rpy/wllpprs.git
 ```
 
 Создайте файл .env в корневой директории проекта. Создайте в нем переменную окружения CLIENT_ID. Присвойте ей access_key, который можно получить при регистрации на [unsplash](https://unsplash.com) в качестве разработчика. Выглядеть файл должен так:
